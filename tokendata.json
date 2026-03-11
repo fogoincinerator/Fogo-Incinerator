@@ -8,6 +8,10 @@
     {
       "name": "Fogo River Fish",
       "image": "https://raw.githubusercontent.com/fogoincinerator/Fogo-Incinerator/refs/heads/main/static/1-fishnft.jpg"
+    },
+    {
+      "name": "Valiant Vortex Position",
+      "image": "https://raw.githubusercontent.com/fogoincinerator/Fogo-Incinerator/refs/heads/main/static/2-VVLP.jpg"
     }
   ],
   "scamTokens": [
