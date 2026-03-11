@@ -1,0 +1,19 @@
+{
+  "vacateOnlyMints": [
+    "F1SHuJ3sFF2wJoYbUJxK4iZ6CYg6MakFj8q6QHACFd4s",
+    "iFoGoY5nMWpuMJogR7xjUAWDJtygHDF17zREeP4MKuD",
+    "Brasa3xzkSC9XqMBEcN9v53x4oMkpb1nQwfaGMyJE88b"
+  ],
+  "vacateOnlyNames": [
+    {
+      "name": "Fogo River Fish",
+      "image": "https://raw.githubusercontent.com/id/repository/main/fish.jpg"
+    }
+  ],
+  "scamTokens": [
+    {
+      "mint": "orcTMGYwUcNerKWJYxGQaDqxNU4H379nPx3XKB4qj43",
+      "url": "https://x.com/"
+    }
+  ]
+}
