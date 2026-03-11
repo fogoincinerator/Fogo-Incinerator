@@ -6,11 +6,13 @@
   ],
   "vacateOnlyNames": [
     {
-      "name": "Fogo River Fish",
+      "filterName": "Fogo River Fish",
+      "displayName": "All Fogo Fishing NFTs",
       "image": "https://raw.githubusercontent.com/fogoincinerator/Fogo-Incinerator/refs/heads/main/static/1-fishnft.jpg"
     },
     {
-      "name": "Valiant Vortex Position",
+      "filterName": "Valiant Vortex Position"
+      "displayName": "All Valiant LP Tokens",
       "image": "https://raw.githubusercontent.com/fogoincinerator/Fogo-Incinerator/refs/heads/main/static/2-VVLP.png"
     }
   ],
