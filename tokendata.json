@@ -21,5 +21,12 @@
       "mint": "orcTMGYwUcNerKWJYxGQaDqxNU4H379nPx3XKB4qj43",
       "url": "https://x.com/"
     }
+  ],
+  "promotions": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/fogoincinerator/Fogo-Incinerator/refs/heads/main/static/fishbanner.jpg",
+      "linkUrl": "https://fogofishing.com/",
+      "altText": "FogoFishing S2"
+    }
   ]
 }
